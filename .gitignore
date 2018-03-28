@@ -1,0 +1,3 @@
+*.pvc
+*.sqlite3
+__pycache__
